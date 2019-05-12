@@ -1,0 +1,125 @@
+
+Showing All Messages
+CreateBuildDirectory /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    builtin-create-build-directory /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex
+
+CreateBuildDirectory /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    builtin-create-build-directory /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products
+
+MkDir /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.app (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    /bin/mkdir -p /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.app
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources/Entitlements-Simulated.plist (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources/Entitlements-Simulated.plist
+
+ProcessProductPackaging "" /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy.app-Simulated.xcent (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    
+
+Entitlements:
+
+{
+    "application-identifier" = "5H67M9YMSV.com.yasser.Apps.Locationyy";
+    "keychain-access-groups" =     (
+        "5H67M9YMSV.com.yasser.Apps.Locationyy"
+    );
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy.app-Simulated.xcent
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources/Entitlements.plist (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources/Entitlements.plist
+
+ProcessProductPackaging "" /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy.app.xcent (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy.app.xcent
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-generated-files.hmap (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-generated-files.hmap
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy.hmap (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy.hmap
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-project-headers.hmap (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-project-headers.hmap
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-own-target-headers.hmap (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/all-product-headers.yaml (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-all-non-framework-target-headers.hmap (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-all-non-framework-target-headers.hmap
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-all-target-headers.hmap (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy-OutputFileMap.json (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy-OutputFileMap.json
+
+CompileSwiftSources normal x86_64 com.apple.xcode.tools.swift.compiler (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer
+    export SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -incremental -module-name Locationyy -Onone -enable-batch-mode -enforce-exclusivity=checked -DDEBUG -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk -target x86_64-apple-ios12.2-simulator -g -module-cache-path /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Index/DataStore -swift-version 5 -I /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator -F /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator -c -j4 /Users/yasseralanazi/Desktop/Locationyy/Locationyy/Xlocation.swift /Users/yasseralanazi/Desktop/Locationyy/Locationyy/ViewController.swift -output-file-map /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy-OutputFileMap.json -parseable-output -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.swiftmodule -Xcc -I/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-generated-files.hmap -Xcc -I/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-own-target-headers.hmap -Xcc -I/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-all-target-headers.hmap -Xcc -iquote -Xcc /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy-project-headers.hmap -Xcc -I/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources-normal/x86_64 -Xcc -I/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources/x86_64 -Xcc -I/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources -Xcc -DDEBUG=1 -emit-objc-header -emit-objc-header-path /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy-Swift.h -working-directory /Users/yasseralanazi/Desktop/Locationyy
+
+Ditto /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.swiftmodule/x86_64.swiftmodule /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.swiftmodule (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    /usr/bin/ditto -rsrc /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.swiftmodule /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.swiftmodule/x86_64.swiftmodule
+
+Ditto /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources/Locationyy-Swift.h /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy-Swift.h (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    /usr/bin/ditto -rsrc /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy-Swift.h /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/DerivedSources/Locationyy-Swift.h
+
+Ditto /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.swiftmodule/x86_64.swiftdoc /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.swiftdoc (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    /usr/bin/ditto -rsrc /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.swiftdoc /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.swiftmodule/x86_64.swiftdoc
+
+WriteAuxiliaryFile /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.LinkFileList (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    write-file /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.LinkFileList
+
+Ld /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.app/Locationyy normal x86_64 (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    export IPHONEOS_DEPLOYMENT_TARGET=12.2
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk -L/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator -F/Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator -filelist /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.LinkFileList -Xlinker -rpath -Xlinker /usr/lib/swift -Xlinker -rpath -Xlinker @executable_path/Frameworks -mios-simulator-version-min=12.2 -dead_strip -Xlinker -object_path_lto -Xlinker /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy_lto.o -Xlinker -export_dynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator -Xlinker -add_ast_path -Xlinker /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy.swiftmodule -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Locationyy.app-Simulated.xcent -Xlinker -dependency_info -Xlinker /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Objects-normal/x86_64/Locationyy_dependency_info.dat -o /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.app/Locationyy
+
+ld: entry point (_main) undefined. for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+CompileStoryboard /Users/yasseralanazi/Desktop/Locationyy/Locationyy/Base.lproj/LaunchScreen.storyboard (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..
+    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --module Locationyy --output-partial-info-plist /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Base.lproj/LaunchScreen-SBPartialInfo.plist --auto-activate-custom-fonts --target-device iphone --target-device ipad --minimum-deployment-target 12.2 --output-format human-readable-text --compilation-directory /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Intermediates.noindex/Locationyy.build/Debug-iphonesimulator/Locationyy.build/Base.lproj /Users/yasseralanazi/Desktop/Locationyy/Locationyy/Base.lproj/LaunchScreen.storyboard
+
+Touch /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.app (in target: Locationyy)
+    cd /Users/yasseralanazi/Desktop/Locationyy
+    /usr/bin/touch -c /Users/yasseralanazi/Library/Developer/Xcode/DerivedData/Locationyy-cleqcwgmaohelggvtwxwurbqpkxo/Build/Products/Debug-iphonesimulator/Locationyy.app
+
+
+
+Activity Log Complete    01/09/1440 AH, 4:08 AM    0.1 seconds
